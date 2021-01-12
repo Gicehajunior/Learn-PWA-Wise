@@ -1,0 +1,10 @@
+body {
+    background: #EEE;
+}
+h3{
+    color: lightcoral 
+}
+.header-text, h3 {
+    display: inline;
+    
+}
